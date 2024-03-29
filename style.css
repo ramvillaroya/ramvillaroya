@@ -1,0 +1,93 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+
+.name{
+    padding-left: 80px;
+}
+
+header {
+    background-color: transparent;
+    color: black;
+    text-align: start;
+    padding: 20px 0;
+    margin-bottom: 20px;
+    padding: 20px;
+    padding-left: 230px;
+}
+
+information {
+    width: 300px;
+}
+
+.profile {
+    display: block;
+    margin: 0 auto;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+
+section {
+    background-color: white;
+    padding: 20px;
+    padding-left: 70px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+h2 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+h3 {
+    color: #333;
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+}
+
+.github {
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+  }
+
+  .facebook {
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+  }
+
+  .preferences {
+    color: #fff;
+  }
